@@ -1,0 +1,11 @@
+name: mythicalEssentials
+main: tk.mythicaldimensions.essentials.EssentialsPlugin
+version: 0.1.4.0
+api-version: 1.15
+author: [Empty]
+description: essentials
+loadbefore: [scpsl]
+load: STARTUP
+commands:
+   essentials:
+      description: Base essentials command
